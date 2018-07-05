@@ -11,3 +11,5 @@ this is branch created in web ide as clone for change branch - tes AFTER MERGING
 
 NOW THIS IS THE STATE OF CHANGE BRANCH - i worked on it for some quite long time!
 
+DODAJEMY LINIJKE -> KTOS SIE WBIŁ W DEVELOPMENT
+
